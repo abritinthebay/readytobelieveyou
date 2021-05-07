@@ -5076,10 +5076,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.59.0:
-  version "0.59.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.59.0.tgz#fd38850d55bcfb37d5dc2f64a30d10fb49c8651e"
-  integrity sha512-z70hcSlBHQAlVGILHQD72oDJ+E6eWSwPpj7HJdOCdSJIR70KSusE1zmxOjJIJKy8SiFeg9E3MGCCOXSYLo7aEg==
+hugo-bin@^0.70.0:
+  version "0.70.2"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.70.2.tgz#e1e2758a45b29cc8bbc58885e23c5eebdc745cf8"
+  integrity sha512-ykxDD6eYBizsErcJWVWrZy2Prc0wF+OuBv6wwP2Jj4lNHDgJMYrfpbLaqxnu+qMSmidhZ1SCLwxKnpPyKE1TUg==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
@@ -10743,9 +10743,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-js@3.4.x:
   version "3.4.10"
