@@ -5076,10 +5076,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.59.0:
-  version "0.59.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.59.0.tgz#fd38850d55bcfb37d5dc2f64a30d10fb49c8651e"
-  integrity sha512-z70hcSlBHQAlVGILHQD72oDJ+E6eWSwPpj7HJdOCdSJIR70KSusE1zmxOjJIJKy8SiFeg9E3MGCCOXSYLo7aEg==
+hugo-bin@^0.70.0:
+  version "0.70.2"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.70.2.tgz#e1e2758a45b29cc8bbc58885e23c5eebdc745cf8"
+  integrity sha512-ykxDD6eYBizsErcJWVWrZy2Prc0wF+OuBv6wwP2Jj4lNHDgJMYrfpbLaqxnu+qMSmidhZ1SCLwxKnpPyKE1TUg==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
@@ -9710,9 +9710,9 @@ shebang-regex@^3.0.0:
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
 shell-quote@^1.6.1:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
+  integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.3"
